@@ -5,7 +5,8 @@ Ruley is a simple rule engine that can be used with ActiveRecord. It provides DS
 ## Installation
 
 You can add it to your Gemfile with:
-`gem 'ruley', github: 'andrewsheelan/rules_engine_dsl'
+
+`gem 'ruley', github: 'andrewsheelan/rules_engine_dsl`
 
 Run the bundle command to install it.
 
